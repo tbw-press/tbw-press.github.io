@@ -25,8 +25,8 @@ User-agent: Anthropic-ai
 Disallow: /
 
 # Block Google AI Training (Bard/Gemini training)
-User-agent: Google-Extended
-Disallow: /
+# User-agent: Google-Extended
+# Disallow: /
 
 # Block Common Crawl (Massive dataset harvester used by many AI models)
 User-agent: CCBot
